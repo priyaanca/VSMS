@@ -34,13 +34,12 @@ Browse the Vehicle Service Management System in a browser. i.e. http://localhost
 
 # SCREENSHOTS OF THE PROJECT:
 HOME PAGE:<br>
-![image](https://github.com/priyaanca/VSMS/assets/86156664/d0dd1a41-827b-4903-95ef-7337bcddb304)
-![image](https://github.com/priyaanca/VSMS/assets/86156664/6daa55d3-6e0a-4067-8bec-7bd36b9e7be3)
-![image](https://github.com/priyaanca/VSMS/assets/86156664/1c49dd43-e0d0-4d8c-814d-df73987948bb)
-![image](https://github.com/priyaanca/VSMS/assets/86156664/ea672cea-58aa-4129-8849-98f53227f711)
+![image](https://github.com/priyaanca/VSMS/assets/86156664/4d607c81-f258-4c22-98d7-2222986ae2f3)
+![image](https://github.com/priyaanca/VSMS/assets/86156664/f5be222c-23eb-465f-83d6-03a45f6cde49)
+
 
 ADMIN PAGE:<br>
-![image](https://github.com/priyaanca/VSMS/assets/86156664/d6837c48-7b2c-481e-92c0-4da0da8df776)
-![image](https://github.com/priyaanca/VSMS/assets/86156664/79fab6dc-d8cb-48d8-bb9a-218811121a48)
-![image](https://github.com/priyaanca/VSMS/assets/86156664/24cd5ac8-8f98-4796-8fc4-c0c0a5f78366)
+![image](https://github.com/priyaanca/VSMS/assets/86156664/fed52063-155b-4fb8-8f1a-eb2c749dad53)
+![image](https://github.com/priyaanca/VSMS/assets/86156664/23af1c94-d961-4d02-b522-e2ced147965e)
+
 
